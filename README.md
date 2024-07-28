@@ -7,4 +7,5 @@ Developed the Qtify website based on a provided Figma design, featuring an inter
 Created user-friendly filter tabs for music selection and integrated React Router 6 for seamless album navigation.
 Enhanced user experience with an accordion-style FAQ section and detailed album information, including tables and pagination.
 Successfully deployed the project to Vercel.
+
 Skills Utilized: CSS3 · React.js · React Router v6 · Pagination · Responsive Web Design · Vercel · Front-End Development · REST APIs · Hooks
